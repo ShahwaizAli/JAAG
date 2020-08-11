@@ -12,13 +12,8 @@
 }
 .joinB{
     font-size: 1.5em;
-    background-color: #f44336;
+    background-color: #7f0000;
 }
 .intro{
     background-color: #f44336;
-}
-.sidebar-collapse {
-   background:#7f0000;
-   opacity:1;
-
 }
